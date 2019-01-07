@@ -1,4 +1,4 @@
-# shout-box
+# Shout-Box Overview
 This is a simple shout box:  sort of like an old school chatroom but even more simplistic.
 
 It is intended to be used for single posts from users, rather than ongoing conversations.
