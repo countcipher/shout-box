@@ -3,8 +3,8 @@
 //Connect to MySQL
 
 $host = "localhost";
-$username = "shoutboxuser";
-$password = "123456789";
+$username = "usernam";//insert username of dbase
+$password = "password";//insert password of dbase
 $dbase = "shoutit";
 
 $con = mysqli_connect($host, $username, $password, $dbase);
